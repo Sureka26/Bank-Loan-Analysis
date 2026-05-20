@@ -149,6 +149,17 @@ The SQL analysis includes:
 - Data Visualization
 - Analytical Thinking
 
+## Dashboard Preview
+
+## Summary Dashboard
+![Summary Dasboard0(<img width="872" height="490" alt="SUMMARY" src="https://github.com/user-attachments/assets/68627e9d-47b7-485f-916d-909932cc1c1b" />)
+
+## Overview Dashboard
+![Overview Dashboard](<img width="869" height="486" alt="OVERVIEW" src="https://github.com/user-attachments/assets/f2b371c2-c911-4339-9205-db80ae1cabb9" />)
+
+## Details Dashboard
+![Details Dashboard](<img width="869" height="486" alt="DETAILS" src="https://github.com/user-attachments/assets/e592c916-0d22-4d65-ac58-296e9e4431f9" />)
+
 ## Author
 
 Sureka. R
