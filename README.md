@@ -130,15 +130,10 @@ The SQL analysis includes:
 - Business Intelligence Reporting
 
 ## Dashboard Preview
+-Excel Dashboard
 - Power BI Dashboards
-- Summary Dashboard
-- Overview Dashboard
-- Details Dashboard
 - Tableau Dashboards
-- Summary Dashboard
-- Overview Dashboard
-- Details Dashboard
-
+  
 ## Skills Demonstrated
 - SQL Query Writing
 - KPI Development
