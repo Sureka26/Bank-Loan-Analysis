@@ -8,6 +8,9 @@ This project focuses on analyzing bank loan data to identify loan performance, c
 
 The project was developed as an end-to-end analytics solution using SQL, Python, Excel, Power BI, and Tableau to transform raw loan data into meaningful business insights and interactive dashboards.
 
+## Dataset
+Source: Publicly available bank loan dataset used for analytical purposes.
+
 ## Business Objective
 
 - The main objective of this project is to:
