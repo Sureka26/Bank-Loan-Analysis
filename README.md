@@ -30,35 +30,6 @@ The project was developed as an end-to-end analytics solution using SQL, Python,
 - Power BI	Interactive dashboard creation
 - Tableau	Business intelligence dashboards
 
-
-## Project Structure
-
-Bank-Loan-Analysis/
-│
-├── Dataset/
-│   └── bank_loan_data.csv
-│
-├── SQL/
-│   ├── bank_loan_kpi.sql
-│   ├── bank_loan_overview.sql
-│   ├── bank_loan_good_bad_analysis.sql
-│   └── bank_loan_status_analysis.sql
-│
-├── Python/
-│   ├── Bank Loan Project.ipynb
-│   └── image/
-│
-├── Power BI/
-│   └── Bank Loan Dashboard.pbix
-│
-├── Tableau/
-│   └── Tableau Dashboard Files
-│
-├── Excel/
-│   └── Excel Dashboard Files
-│
-└── README.md
-
 ## Key KPIs Analyzed
 
 - Total Loan Applications
