@@ -131,11 +131,6 @@ The SQL analysis includes:
 - Data Visualization
 - Dashboard Development
 - Business Intelligence Reporting
-
-## Dashboard Preview
--Excel Dashboard
-- Power BI Dashboards
-- Tableau Dashboards
   
 ## Skills Demonstrated
 - SQL Query Writing
@@ -163,3 +158,8 @@ The SQL analysis includes:
 Sureka. R
 
 Aspiring Data Analyst skilled in SQL, Python, Power BI, Tableau, and Excel with a strong interest in business analytics and dashboard development.
+
+## Linkedin
+www.linkedin.com/in/
+sureka26
+Vanity URL name
