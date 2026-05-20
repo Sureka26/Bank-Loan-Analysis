@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis
+# Bank Loan Risk & Performance Analysis Dashboard
 Bank Loan Analysis Dashboard Using Python, Excel and Power BI
 Bank Loan Risk & Performance Analysis Dashboard
 
