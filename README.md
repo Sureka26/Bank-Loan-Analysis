@@ -159,7 +159,5 @@ Sureka. R
 
 Aspiring Data Analyst skilled in SQL, Python, Power BI, Tableau, and Excel with a strong interest in business analytics and dashboard development.
 
-## Linkedin
 www.linkedin.com/in/
-sureka26
-Vanity URL name
+
